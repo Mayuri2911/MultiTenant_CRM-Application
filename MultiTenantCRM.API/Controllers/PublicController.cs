@@ -3,14 +3,16 @@ using System.ComponentModel;
 
 namespace MultiTenantCRM.API.Controllers
 {
+
+    [ApiController]
     [Area("PublicArea")]
-    [DisplayName("Public Controller")]
-    [Route("api / [area]/[controlller]")]
-    public class PublicController : Controller
+    [Route("api/[area]/[controller]")]
+    public class PublicController : ControllerBase
     {
-        public IActionResult Index()
+        [HttpGet("Public")]
+        public IActionResult Public()
         {
-            return View();
+            return Ok("Hello from public area!");
         }
     }
 }
