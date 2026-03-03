@@ -5,7 +5,15 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MultiTenantCRM.API", "MultiTenantCRM.API\MultiTenantCRM.API.csproj", "{736E6D87-15A8-49DA-A2A8-DC485267873F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRM_Blazor_App", "CRM_Blazor_App\CRM_Blazor_App.csproj", "{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CRM_Blazor_App", "CRM_Blazor_App\CRM_Blazor_App.csproj", "{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenantCRM.Utility", "MultiTenantCRM.Utility\MultiTenantCRM.Utility.csproj", "{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenantCRM.Model", "MultiTenantCRM.Model\MultiTenantCRM.Model.csproj", "{839D5A2B-D012-4D83-AC31-5F3E62412B20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenantCRM.Service", "MultiTenantCRM.Service\MultiTenantCRM.Service.csproj", "{6F92BBC7-BD05-45D5-9358-6434CA6359D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiTenantCRM.DataAccess", "MultiTenantCRM.DataAccess\MultiTenantCRM.DataAccess.csproj", "{2CA8E204-6400-491C-9B6F-2171016E34C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +29,22 @@ Global
 		{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{839D5A2B-D012-4D83-AC31-5F3E62412B20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{839D5A2B-D012-4D83-AC31-5F3E62412B20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{839D5A2B-D012-4D83-AC31-5F3E62412B20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{839D5A2B-D012-4D83-AC31-5F3E62412B20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F92BBC7-BD05-45D5-9358-6434CA6359D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F92BBC7-BD05-45D5-9358-6434CA6359D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F92BBC7-BD05-45D5-9358-6434CA6359D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F92BBC7-BD05-45D5-9358-6434CA6359D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CA8E204-6400-491C-9B6F-2171016E34C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA8E204-6400-491C-9B6F-2171016E34C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA8E204-6400-491C-9B6F-2171016E34C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA8E204-6400-491C-9B6F-2171016E34C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

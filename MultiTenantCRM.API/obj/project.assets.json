@@ -2844,6 +2844,59 @@
         "runtime": {
           "lib/netcoreapp2.1/_._": {}
         }
+      },
+      "MultiTenantCRM.DataAccess/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MultiTenantCRM.Model": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MultiTenantCRM.DataAccess.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiTenantCRM.DataAccess.dll": {}
+        }
+      },
+      "MultiTenantCRM.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "8.0.0",
+          "MultiTenantCRM.Utility": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MultiTenantCRM.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiTenantCRM.Model.dll": {}
+        }
+      },
+      "MultiTenantCRM.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "MultiTenantCRM.DataAccess": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/MultiTenantCRM.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiTenantCRM.Service.dll": {}
+        }
+      },
+      "MultiTenantCRM.Utility/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "System.Text.Json": "9.0.3"
+        },
+        "compile": {
+          "bin/placeholder/MultiTenantCRM.Utility.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MultiTenantCRM.Utility.dll": {}
+        }
       }
     }
   },
@@ -8167,6 +8220,26 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "MultiTenantCRM.DataAccess/1.0.0": {
+      "type": "project",
+      "path": "../MultiTenantCRM.DataAccess/MultiTenantCRM.DataAccess.csproj",
+      "msbuildProject": "../MultiTenantCRM.DataAccess/MultiTenantCRM.DataAccess.csproj"
+    },
+    "MultiTenantCRM.Model/1.0.0": {
+      "type": "project",
+      "path": "../MultiTenantCRM.Model/MultiTenantCRM.Model.csproj",
+      "msbuildProject": "../MultiTenantCRM.Model/MultiTenantCRM.Model.csproj"
+    },
+    "MultiTenantCRM.Service/1.0.0": {
+      "type": "project",
+      "path": "../MultiTenantCRM.Service/MultiTenantCRM.Service.csproj",
+      "msbuildProject": "../MultiTenantCRM.Service/MultiTenantCRM.Service.csproj"
+    },
+    "MultiTenantCRM.Utility/1.0.0": {
+      "type": "project",
+      "path": "../MultiTenantCRM.Utility/MultiTenantCRM.Utility.csproj",
+      "msbuildProject": "../MultiTenantCRM.Utility/MultiTenantCRM.Utility.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8176,6 +8249,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.23",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.23",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.23",
+      "MultiTenantCRM.Service >= 1.0.0",
       "Swashbuckle.AspNetCore >= 8.0.0",
       "Swashbuckle.AspNetCore.Swagger >= 8.0.0",
       "Swashbuckle.AspNetCore.SwaggerUI >= 8.0.0",
@@ -8208,7 +8282,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Service\\MultiTenantCRM.Service.csproj": {
+              "projectPath": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Service\\MultiTenantCRM.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

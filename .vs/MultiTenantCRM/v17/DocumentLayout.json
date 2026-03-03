@@ -3,8 +3,68 @@
   "WorkspaceRootPath": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\pages\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.model\\identity\\multitenantcrmapiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|solutionrelative:multitenantcrm.model\\identity\\multitenantcrmapiuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\pages\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.dataaccess\\multitenantcrmapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|solutionrelative:multitenantcrm.dataaccess\\multitenantcrmapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.dataaccess\\multitenantcrm.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|solutionrelative:multitenantcrm.dataaccess\\multitenantcrm.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CA8E204-6400-491C-9B6F-2171016E34C0}|MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj|solutionrelative:multitenantcrm.dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|solutionrelative:multitenantcrm.model\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.model\\multitenantcrm.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{839D5A2B-D012-4D83-AC31-5F3E62412B20}|MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj|solutionrelative:multitenantcrm.model\\multitenantcrm.model.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\multitenantcrm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\multitenantcrm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}|MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.utility\\multitenantcrm.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}|MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj|solutionrelative:multitenantcrm.utility\\multitenantcrm.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F92BBC7-BD05-45D5-9358-6434CA6359D4}|MultiTenantCRM.Service\\MultiTenantCRM.Service.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F92BBC7-BD05-45D5-9358-6434CA6359D4}|MultiTenantCRM.Service\\MultiTenantCRM.Service.csproj|solutionrelative:multitenantcrm.service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}|MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F2C1011-DFD1-47E8-B6BC-64E5A8856CB7}|MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj|solutionrelative:multitenantcrm.utility\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}|CRM_Blazor_App\\CRM_Blazor_App.csproj|d:\\multitenat_crm_project\\multitenantcrm\\crm_blazor_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}|CRM_Blazor_App\\CRM_Blazor_App.csproj|solutionrelative:crm_blazor_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}|CRM_Blazor_App\\CRM_Blazor_App.csproj|d:\\multitenat_crm_project\\multitenantcrm\\crm_blazor_app\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -19,20 +79,8 @@
       "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}|CRM_Blazor_App\\CRM_Blazor_App.csproj|d:\\multitenat_crm_project\\multitenantcrm\\crm_blazor_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5FB0ADB5-6DE3-4551-9EDD-1631144B31E2}|CRM_Blazor_App\\CRM_Blazor_App.csproj|solutionrelative:crm_blazor_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\controllers\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|d:\\multitenat_crm_project\\multitenantcrm\\multitenantcrm.api\\multitenantcrm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{736E6D87-15A8-49DA-A2A8-DC485267873F}|MultiTenantCRM.API\\MultiTenantCRM.API.csproj|solutionrelative:multitenantcrm.api\\multitenantcrm.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,24 +90,246 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MultiTenantCRM.API.csproj",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
+              "RelativeToolTip": "MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-11T18:52:31.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Pages\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\Pages\\_ViewImports.cshtml",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Pages\\_ViewImports.cshtml",
+              "RelativeToolTip": "MultiTenantCRM.API\\Pages\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T19:35:35.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Pages\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MultiTenantCRM.API\\Pages\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T19:35:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiTenantCRMAPIUser.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\Identity\\MultiTenantCRMAPIUser.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Model\\Identity\\MultiTenantCRMAPIUser.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\Identity\\MultiTenantCRMAPIUser.cs",
+              "RelativeToolTip": "MultiTenantCRM.Model\\Identity\\MultiTenantCRMAPIUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:24:39.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MultiTenantCRMAPIDBContext.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\MultiTenantCRMAPIDBContext.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.DataAccess\\MultiTenantCRMAPIDBContext.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\MultiTenantCRMAPIDBContext.cs",
+              "RelativeToolTip": "MultiTenantCRM.DataAccess\\MultiTenantCRMAPIDBContext.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T19:24:06.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MultiTenantCRM.DataAccess",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj",
+              "RelativeDocumentMoniker": "MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj",
+              "RelativeToolTip": "MultiTenantCRM.DataAccess\\MultiTenantCRM.DataAccess.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T19:07:50.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Program.cs",
               "RelativeDocumentMoniker": "MultiTenantCRM.API\\Program.cs",
               "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Program.cs",
               "RelativeToolTip": "MultiTenantCRM.API\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAcwAgAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T18:44:45.817Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.DataAccess\\Class1.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.DataAccess\\Class1.cs",
+              "RelativeToolTip": "MultiTenantCRM.DataAccess\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:00:47.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\Class1.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Model\\Class1.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\Class1.cs",
+              "RelativeToolTip": "MultiTenantCRM.Model\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:59:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultiTenantCRM.Model.csproj",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj",
+              "RelativeToolTip": "MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T16:05:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MultiTenantCRM.Utility.csproj",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj",
+              "RelativeToolTip": "MultiTenantCRM.Utility\\MultiTenantCRM.Utility.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T16:04:17.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Service\\Class1.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Service\\Class1.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Service\\Class1.cs",
+              "RelativeToolTip": "MultiTenantCRM.Service\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T16:00:18.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Utility\\Class1.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.Utility\\Class1.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Utility\\Class1.cs",
+              "RelativeToolTip": "MultiTenantCRM.Utility\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T15:59:12.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MultiTenantCRM.API\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T15:15:32.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Controllers\\PublicController.cs",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\Controllers\\PublicController.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Controllers\\PublicController.cs",
+              "RelativeToolTip": "MultiTenantCRM.API\\Controllers\\PublicController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAEBVwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T18:46:09.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\appsettings.json",
+              "RelativeDocumentMoniker": "MultiTenantCRM.API\\appsettings.json",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\appsettings.json",
+              "RelativeToolTip": "MultiTenantCRM.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T19:16:58.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\appsettings.json",
+              "RelativeDocumentMoniker": "CRM_Blazor_App\\appsettings.json",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\appsettings.json",
+              "RelativeToolTip": "CRM_Blazor_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-16T18:49:21.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\Program.cs",
+              "RelativeDocumentMoniker": "CRM_Blazor_App\\Program.cs",
+              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\Program.cs",
+              "RelativeToolTip": "CRM_Blazor_App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T18:42:55.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "CRM_Blazor_App\\Components\\Pages\\Home.razor",
@@ -72,75 +342,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\Program.cs",
-              "RelativeDocumentMoniker": "CRM_Blazor_App\\Program.cs",
-              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\Program.cs",
-              "RelativeToolTip": "CRM_Blazor_App\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-16T18:42:55.139Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PublicController.cs",
-              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Controllers\\PublicController.cs",
-              "RelativeDocumentMoniker": "MultiTenantCRM.API\\Controllers\\PublicController.cs",
-              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Controllers\\PublicController.cs",
-              "RelativeToolTip": "MultiTenantCRM.API\\Controllers\\PublicController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T18:46:09.383Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\appsettings.json",
-              "RelativeDocumentMoniker": "MultiTenantCRM.API\\appsettings.json",
-              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\appsettings.json",
-              "RelativeToolTip": "MultiTenantCRM.API\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T19:16:58.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 18,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "MultiTenantCRM.API\\Properties\\launchSettings.json",
               "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\Properties\\launchSettings.json",
               "RelativeToolTip": "MultiTenantCRM.API\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAfAAAA",
+              "ViewState": "AQIAAAEAAAAAAAAAAABhwBwAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T18:49:08.848Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\appsettings.json",
-              "RelativeDocumentMoniker": "CRM_Blazor_App\\appsettings.json",
-              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\CRM_Blazor_App\\appsettings.json",
-              "RelativeToolTip": "CRM_Blazor_App\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-16T18:49:21.949Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MultiTenantCRM.API.csproj",
-              "DocumentMoniker": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
-              "RelativeDocumentMoniker": "MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
-              "ToolTip": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
-              "RelativeToolTip": "MultiTenantCRM.API\\MultiTenantCRM.API.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-02-11T18:52:31.254Z"
+              "WhenOpened": "2026-02-16T18:49:08.848Z",
+              "EditorCaption": ""
             }
           ]
         }

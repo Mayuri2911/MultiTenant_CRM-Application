@@ -22,10 +22,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
     <Folder Include="Areas\PublicArea\Controllers\" />
     <Folder Include="Areas\PublicArea\Data\" />
     <Folder Include="Areas\PublicArea\Models\" />
     <Folder Include="Areas\PublicArea\Views\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MultiTenantCRM.Service\MultiTenantCRM.Service.csproj" />
   </ItemGroup>
 
 </Project>

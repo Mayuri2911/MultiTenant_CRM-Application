@@ -1,7 +1,7 @@
-using Microsoft.OpenApi.Models;
-using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
-using MultiTenantCRM.API.Areas.Identity.Data;
+using Microsoft.OpenApi.Models;
+using MultiTenantCRM.DataAccess;
+using MultiTenantCRM.Model.Identity;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("MultiTenantCRMAPIDBContextConnection") ?? throw new InvalidOperationException("Connection string 'MultiTenantCRMAPIDBContextConnection' not found.");
@@ -33,7 +33,7 @@ builder.Services.AddCors(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen(c =>
 c.SwaggerDoc("v1", new OpenApiInfo { Title = "CRM API", Version = "v1" })
-    ); 
+    );
 
 
 var app = builder.Build();

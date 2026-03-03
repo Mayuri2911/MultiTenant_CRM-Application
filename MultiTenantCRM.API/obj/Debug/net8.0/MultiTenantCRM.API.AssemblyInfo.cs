@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiTenantCRM.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8668681e7451b50496e47554b1428e93268e5ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9af304a5fb8184ce1f341319b84c79540e34e754")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiTenantCRM.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiTenantCRM.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

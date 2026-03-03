@@ -1,0 +1,13 @@
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\bin\Debug\net8.0\MultiTenantCRM.Utility.deps.json
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\bin\Debug\net8.0\MultiTenantCRM.Utility.dll
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\bin\Debug\net8.0\MultiTenantCRM.Utility.pdb
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.csproj.AssemblyReference.cache
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.AssemblyInfoInputs.cache
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.AssemblyInfo.cs
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.csproj.CoreCompileInputs.cache
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.sourcelink.json
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.dll
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\refint\MultiTenantCRM.Utility.dll
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\MultiTenantCRM.Utility.pdb
+D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.Utility\obj\Debug\net8.0\ref\MultiTenantCRM.Utility.dll
