@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "wrhqZWE7wfJA62fld6xRXSrPZdXkxOkjSa5h0+GePWr40MAEKbU3F51anlga8o0hZ5HILxFMSnXelNXu5U6N8Q==",
+  "dgSpecHash": "zjAsP4K3vdEaR593tP8cjV8l+0E4+/4ewkRaQYe2Y4XHv3E8EdA+rtsqxdj4RMJMzFzKPK04SGHGVXiYPuzOLw==",
   "success": true,
   "projectFilePath": "D:\\MultiTenat_CRM_Project\\MultiTenantCRM\\MultiTenantCRM.Model\\MultiTenantCRM.Model.csproj",
   "expectedPackageFiles": [
@@ -21,10 +21,7 @@
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
-    "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
-    "C:\\Users\\mayuri\\.nuget\\packages\\system.io.pipelines\\9.0.3\\system.io.pipelines.9.0.3.nupkg.sha512",
-    "C:\\Users\\mayuri\\.nuget\\packages\\system.text.encodings.web\\9.0.3\\system.text.encodings.web.9.0.3.nupkg.sha512",
-    "C:\\Users\\mayuri\\.nuget\\packages\\system.text.json\\9.0.3\\system.text.json.9.0.3.nupkg.sha512"
+    "C:\\Users\\mayuri\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
   ],
   "logs": []
 }

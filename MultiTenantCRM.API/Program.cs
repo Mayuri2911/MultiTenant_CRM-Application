@@ -1,14 +1,16 @@
+using Microsoft.AspNetCore.Routing.Constraints;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using MultiTenantCRM.DataAccess;
 using MultiTenantCRM.Model.Identity;
+using System.Diagnostics;
 
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("MultiTenantCRMAPIDBContextConnection") ?? throw new InvalidOperationException("Connection string 'MultiTenantCRMAPIDBContextConnection' not found.");
 
 builder.Services.AddDbContext<MultiTenantCRMAPIDBContext>(options => options.UseSqlServer(connectionString));
 
-builder.Services.AddDefaultIdentity<MultiTenantCRMAPIUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<MultiTenantCRMAPIDBContext>();
+builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.RequireConfirmedAccount = true).AddEntityFrameworkStores<MultiTenantCRMAPIDBContext>();
 
 // Add services to the container.
 
@@ -54,6 +56,13 @@ if (app.Environment.IsDevelopment())
         // Optional: make Swagger appear at root URL instead of /swagger
         // c.RoutePrefix = string.Empty;
     });
+    //var url = "https://localhost:7270/swagger";
+
+    //Process.Start(new ProcessStartInfo
+    //{
+    //    FileName = url,
+    //    UseShellExecute = true
+    //});
 }
 app.UseCors("AllowAll");
 app.UseHttpsRedirection();

@@ -86,13 +86,10 @@ D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\Sys
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
-D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.IO.Pipelines.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Memory.Data.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Text.Encodings.Web.dll
-D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\System.Text.Json.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\af\Humanizer.resources.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\ar\Humanizer.resources.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -239,7 +236,6 @@ D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\run
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\MultiTenantCRM.DataAccess.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\MultiTenantCRM.Model.dll
 D:\MultiTenat_CRM_Project\MultiTenantCRM\MultiTenantCRM.API\bin\Debug\net8.0\MultiTenantCRM.Service.dll

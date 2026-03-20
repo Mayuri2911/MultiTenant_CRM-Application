@@ -5,7 +5,7 @@ using MultiTenantCRM.Model.Identity;
 
 namespace MultiTenantCRM.DataAccess;
 
-public class MultiTenantCRMAPIDBContext : IdentityDbContext<MultiTenantCRMAPIUser>
+public class MultiTenantCRMAPIDBContext : IdentityDbContext<ApplicationUser>
 {
     public MultiTenantCRMAPIDBContext(DbContextOptions<MultiTenantCRMAPIDBContext> options)
         : base(options)
